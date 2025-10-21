@@ -1,0 +1,11 @@
+tmp
+output
+data
+log
+obj
+*.o
+*.tar
+*.bin
+*.log
+*.massif.*
+__pycache__
