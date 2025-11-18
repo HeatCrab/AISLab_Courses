@@ -1,2 +1,12 @@
 # macOS
 .DS_Store
+
+# PyTorch model files
+*.pth
+
+# Lab outputs and templates
+2025_EAI/Lab3/output
+2025_EAI/Lab3/StudentID_Lab3.ipynb
+
+# 2026 AOC experimental course materials
+2026_AOC/
