@@ -4,9 +4,17 @@
 # PyTorch model files
 *.pth
 
+# ONNX model files
+*.onnx
+*.onnx.data
+
 # Lab outputs and templates
 2025_EAI/Lab3/output
 2025_EAI/Lab3/StudentID_Lab3.ipynb
 
-# 2026 AOC experimental course materials
+# Pictures directory
+pictures/
+
+# AOC experimental course materials
+2025_AOC/
 2026_AOC/
