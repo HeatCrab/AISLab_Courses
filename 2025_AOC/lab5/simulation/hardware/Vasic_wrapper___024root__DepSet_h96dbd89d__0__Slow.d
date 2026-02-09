@@ -1,3 +1,0 @@
-Vasic_wrapper___024root__DepSet_h96dbd89d__0__Slow.o: \
- Vasic_wrapper___024root__DepSet_h96dbd89d__0__Slow.cpp \
- Vasic_wrapper__pch.h Vasic_wrapper___024root.h

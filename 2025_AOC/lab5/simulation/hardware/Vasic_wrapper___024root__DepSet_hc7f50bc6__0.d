@@ -1,3 +1,0 @@
-Vasic_wrapper___024root__DepSet_hc7f50bc6__0.o: \
- Vasic_wrapper___024root__DepSet_hc7f50bc6__0.cpp Vasic_wrapper__pch.h \
- Vasic_wrapper__Syms.h Vasic_wrapper___024root.h
